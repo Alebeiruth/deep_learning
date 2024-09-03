@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandre-beiruth-bcc/](https://www.linkedin.com/in/alexandre-beiruth-bcc/)
 
-<h3 align="center">This code is part of a study series on artificial intelligence. In this repository, my study on deep learning is stored, with comments in Brazilian Portuguese within the code..</h3>
+<h3 align="center">This code is part of a study series on artificial intelligence. In this repository, my study on deep learning is stored with comments in Brazilian Portuguese. It includes the implementation of a neural network called LSTM trained on time series data. Please note that this code is intended for study purposes only..</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -12,6 +12,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandre-beiruth-bcc/](https://www.linkedin.com/in/alexandre-beiruth-bcc/)
 
+<h3 align="center">This code is part of a study series on artificial intelligence. In this repository, my study on deep learning is stored, with comments in Brazilian Portuguese within the code..</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexandre-beiruth-bcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-beiruth-bcc" height="30" width="40" /></a>
